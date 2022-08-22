@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.f07a1d29.css",
-    "main.js": "/my-react-app/static/js/main.df377def.js",
+    "main.css": "/my-react-app/static/css/main.ec0dbe51.css",
+    "main.js": "/my-react-app/static/js/main.5e780da1.js",
     "static/js/787.bc7d429a.chunk.js": "/my-react-app/static/js/787.bc7d429a.chunk.js",
     "static/media/beach-image.jpg": "/my-react-app/static/media/beach-image.83c22f3194aec513c88f.jpg",
     "index.html": "/my-react-app/index.html",
-    "main.f07a1d29.css.map": "/my-react-app/static/css/main.f07a1d29.css.map",
-    "main.df377def.js.map": "/my-react-app/static/js/main.df377def.js.map",
+    "static/media/index.cjs": "/my-react-app/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.ec0dbe51.css.map": "/my-react-app/static/css/main.ec0dbe51.css.map",
+    "main.5e780da1.js.map": "/my-react-app/static/js/main.5e780da1.js.map",
     "787.bc7d429a.chunk.js.map": "/my-react-app/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f07a1d29.css",
-    "static/js/main.df377def.js"
+    "static/css/main.ec0dbe51.css",
+    "static/js/main.5e780da1.js"
   ]
 }
